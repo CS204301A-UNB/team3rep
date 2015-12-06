@@ -2,7 +2,9 @@
 public class InfoApp {
 
 	public static void main(String[] args) {
-		System.out.print("Team 3 member list:");
+		System.out.print("Team 3 member list: ");
+		InfoPrintZhang test = new InfoPrintZhang();
+		test.printZhang();
 	}
 	
 }
