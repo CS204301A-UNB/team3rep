@@ -5,8 +5,8 @@
 +		InfoPrintGoodwin emilynn = new InfoPrintGoodwin();
 +		emilynn.printGoodwin();
 
-		InfoPrintConklin Brooks = new InfoPrintConklin();
-		Brooks.printConklin();
+		InfoPrintConklin brooks = new InfoPrintConklin();
+		brooks.printConklin();
 	}
 	
 }
