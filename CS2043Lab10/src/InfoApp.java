@@ -4,6 +4,10 @@
 -		System.out.print("Team 3 member list:");
 +		InfoPrintGoodwin emilynn = new InfoPrintGoodwin();
 +		emilynn.printGoodwin();
+
++		InfoPrintGoodwin brooks = new InfoPrintConklin();
++		brooks.printConklin();
+
  	}
  	
  }
